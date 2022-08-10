@@ -1,2 +1,2 @@
 # MaRCoS_Install
-Installation für Remote benutzung 
+Installation für Remote-nutzung des Tabletop MRI
